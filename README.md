@@ -1,5 +1,8 @@
 # Course Materials
 
+### Code samples
+https://github.com/this-is-kotlin/playground
+
 ### Slides
 
 #### Introduction
@@ -9,6 +12,10 @@
 #### Functions
 - [html](https://this-is-kotlin.github.io/slides-functions/)
 - [pdf](https://github.com/this-is-kotlin/slides-functions/blob/main/doc/this%20is%20Kotlin%20-%2002%20-%20Functions.pdf)
+
+#### Collections
+- [html](https://this-is-kotlin.github.io/slides-collections/)
+- [pdf](https://github.com/this-is-kotlin/slides-collections/blob/main/doc/this%20is%20Kotlin%20-%2003%20-%20Collections.pdf)
 
 ### Exercises
 - [IntelliJ EduTools Plugin](https://plugins.jetbrains.com/plugin/10081-edutools)
