@@ -3,6 +3,10 @@
 ### Code samples
 https://github.com/this-is-kotlin/playground
 
+### Exercises
+- [IntelliJ EduTools Plugin](https://plugins.jetbrains.com/plugin/10081-edutools)
+- [Exercises for this course](https://plugins.jetbrains.com/plugin/17708--this-is-kotlin-)
+
 ### Slides
 
 #### Introduction
@@ -21,6 +25,19 @@ https://github.com/this-is-kotlin/playground
 - [html](https://this-is-kotlin.github.io/slides-oop/)
 - [pdf](https://github.com/this-is-kotlin/slides-oop/blob/main/doc/this%20is%20Kotlin%20-%2004%20-%20OOP.pdf)
 
-### Exercises
-- [IntelliJ EduTools Plugin](https://plugins.jetbrains.com/plugin/10081-edutools)
-- [Exercises for this course](https://plugins.jetbrains.com/plugin/17708--this-is-kotlin-)
+#### Advanced Topics
+- [html](https://this-is-kotlin.github.io/slides-advanced-topics/)
+- [pdf](https://github.com/this-is-kotlin/slides-advanced-topics/blob/main/docs/this%20is%20kotlin%20-05-%20Advanced%20Topics.pdf)
+
+#### Generics
+- [html](https://this-is-kotlin.github.io/slides-generics/)
+- [pdf](https://github.com/this-is-kotlin/slides-generics/blob/main/docs/this%20is%20kotlin%20-06-%20Generics.pdf)
+
+#### Testing
+- html
+- pdf
+
+#### Coroutines
+- [html](https://this-is-kotlin.github.io/slides-coroutines/)
+- [pdf](https://github.com/this-is-kotlin/slides-coroutines/blob/main/docs/this%20is%20Kotlin%20-08-%20Coroutines.pdf)
+- [code samples](https://github.com/this-is-kotlin/bakery)
